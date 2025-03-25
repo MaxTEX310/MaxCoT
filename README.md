@@ -1,0 +1,5 @@
+# MaxCoT
+
+Despite the significant progress made by large language models (LLMs) in natural language processing, they still face challenges in handling complex educational documents containing multimodal information, particularly in intelligent understanding and reasoning. For example, middle school history exam questions incorporate multimodal information such as text, tables, and illustrations, requiring models to possess cross-modal comprehension and logical reasoning capabilities. However, mainstream LLMs still struggle with information integration and cross-modal reasoning, limiting their applications in educational scenarios.
+
+To advance the development of multimodal large language models (MLLMs) for intelligent understanding of Chinese educational documents, this paper constructs a large-scale dataset comprising approximately 30,000 middle school history exam questions and introduces a detailed thinking chain reasoning process. The thinking chain reveals the intrinsic connections between knowledge points during problem-solving, enabling multimodal LLMs to derive answers step by step, thereby enhancing their performance in complex reasoning tasks.
